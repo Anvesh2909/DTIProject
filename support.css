@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gabarito', cursive;
+}
+.btn{
+    height: 40px;
+    width: 150px;
+    background-color: #FF735C;
+    border-radius: 5px;
+    border: 0;
+}
+.btn1{
+    text-decoration: none;
+    color: white;
+}
+.hio{
+    text-decoration: underline;
+}
